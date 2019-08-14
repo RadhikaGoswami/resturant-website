@@ -1,0 +1,249 @@
+html body{
+   margin: 0;
+    padding: 0;
+    
+}
+
+header{
+       margin-left: 80px;
+       margin-right: 70px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+header ul{display: flex;
+  list-style-type: none;
+ 
+}
+header ul li{margin-top:20px;
+    font-size: 20px;
+     padding-left: 30px;
+    padding-right: 30px;
+}
+
+.text h1{
+    font-size: 200px;
+   position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-68%, -50%);
+}
+
+.text h2{font-family:monospace;
+    font-size: 60px;
+   position: absolute;
+  top: 90%;
+  left: 50%;
+  transform: translate(-68%, -50%);
+    letter-spacing:20px;
+}
+
+.ourmenu {
+    padding-top: 100px;
+}
+.ourmenu .spi,.define,.points{
+text-align: left;
+    font-size: 19px;
+    padding-left:630px;
+ word-spacing: 2px;
+    color:#8F8F8F ;
+    
+} 
+.ourmenu  .spi{   color:black;
+    font-weight: bold;
+    font-family:monospace;
+     font-size:40px; 
+}
+ .spi{   color:black;
+    font-weight: bold;
+    font-family:monospace;
+     font-size:40px; 
+}
+
+.points ul li{   padding: 10px;
+    list-style-type: none;
+
+}
+.menuhot {
+    padding-left:40px;
+}
+
+
+.iiip img {
+transform: translate(-1%,-70%)
+}
+
+.plates{
+    padding-bottom: 30px;
+float: left; 
+    margin: 10px;
+    background: white;
+   transform: translate(-0%,-180%);
+}
+.bg{
+    text-align: right;
+    transform: translate(-4%,-50%);
+}
+
+.price,.head,.heat{padding-left:20px;
+  
+}
+.divv{
+   transform: translate(-0%,-480%);
+}
+.price{
+      color: lightcoral;
+}
+
+.mymenu .left{ padding-left: 40px;   font-family:monospace;
+    padding-right: 40px;
+float: left;
+    font-weight: bold;
+     transform: translate(10%,-50%);
+}
+
+.mymenu .right{
+ float: right;font-family:monospace;
+    font-weight: bold;
+    transform: translate(-20%,-50%);
+    padding-left: 30px;   
+    padding-right: 40px;
+}
+
+ .sppi{font-size: 40px;
+     font-weight: bold;
+    transform: translate(-26%,-290%);
+    color:black;
+     font-family:monospace;
+}
+
+.namess{ transform: translate(-130%,-110%);
+    color:lightcoral;
+    font-family:monospace;
+    font-size:20px;
+    display:flex;
+}
+.namess .names{
+    padding: 40px;
+}
+
+.myplate .foodname{
+font-size: 16px;
+ 
+}
+.right .foodname{
+    float:right;
+       color: #565656;
+    
+}
+
+.left .foodname {
+    float:right;
+       color: #565656;
+}
+.left .spice {
+    text-align: center;
+       color: #565656;
+}
+
+.right .spice {   color: #565656;
+    text-align: center;
+}
+.bgi{box-shadow:0px 1px 38px 0px rgba(0, 0, 0, 0.13);
+    margin-left: 70px;
+    width:90%;
+    height:100%;
+     transform: translate(-1%,-10%);
+}
+.bgi{
+   padding-bottom:30%;
+    color: white;
+}
+.imagica {padding-left:100px; 
+    transform: translate(-0%,-130%);
+    padding: 70px;
+}
+
+
+.tag{color: black;
+   float: left;
+    font-family:cursive;
+    font-size:50px;
+     transform: translate(160%,-1730%);
+}
+     
+button{
+    color: white;
+    background: #E44C2A;
+    border: 0px;
+    font-size: 20px;
+    padding: 20px;
+    transform: translate(300%,200%);
+}
+button:hover {
+  background-color: black;
+    color:white;
+    transition:.6s;
+}
+     
+     
+.chef{
+    padding-left: 70px;
+   transform: translate(-0%,-170%);   
+}   
+
+.section .container{
+  float: right;
+       transform:  translate(-30%,-400%);}
+     
+     
+.small{text-align: center;
+    color: #D3D3D3;
+    font-size: 17px;
+    font-family:cursive;
+}   
+     
+     .lilbig{text-align: center;
+    color:black;
+         font-weight: bold;
+    font-size: 37px;
+    font-family:monospace;
+}   
+  
+      .bigone{
+    color:black;
+         font-weight: bold;
+    font-size: 12px;
+    font-family:cursive;
+}   
+     
+     
+         .phone{text-align: center;
+    color:#E55332;
+       padding: 20px;
+    font-size: 32px;
+    font-family:monospace;
+}   
+     
+form{
+    float: right;
+     transform:  translate(-50%,-430%);
+}
+     input[type=text], select {
+       
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.botto{float: right;
+  transform:  translate(10%,-1590%);
+    padding: 12px;
+}
+.ui {padding: 49px;
+    float: left;
+     transform:  translate(-0%,1%);
+}
